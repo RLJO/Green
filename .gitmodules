@@ -7,3 +7,8 @@
 	path = RLJO/erp-solutions
 	url = git@github.com:RLJO/erp-solutions.git
 	branch = main
+
+[submodule "OCA/mis-builder"]
+	path = OCA/mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 15.0
